@@ -36,7 +36,6 @@ namespace Sim
             {
                 x[i] = x[i] + f[i] * dt;
             }
-            //Console.WriteLine($"{f[0].ToString()}   {f[1].ToString()}");
         }
 
         //--------------------------------------------------------------------
